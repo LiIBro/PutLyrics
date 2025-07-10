@@ -1,0 +1,5 @@
+{
+  "name": "PutLyrics",
+  "description": "Shows lyrics for current song on Spotify, FOR FREE!",
+  "main": "public/index.js"
+}
